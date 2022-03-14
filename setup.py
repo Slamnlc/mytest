@@ -14,7 +14,7 @@ setup(
     author='Biriukov Maksym',
     author_email='maksym.biriukov@eleks.com',
     url="https://gitlab2.eleks-software.local/python/test_rail_integration_plugin",
-    download_url='https://gitlab2.eleks-software.local/python/test_rail_integration_plugin/-/archive/v1.0.1/test_rail_integration_plugin-v1.0.1.tar.gz',
+    download_url='https://github.com/Slamnlc/mytest/archive/refs/tags/v1.0.tar.gz',
     packages=setuptools.find_packages(exclude=("tests", "dev_tools")),
     install_requires=[
         'requests',
